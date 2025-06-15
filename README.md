@@ -22,7 +22,7 @@ This project scrapes product pages from e-commerce websites, summarizes the cont
 Clone the repo:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/supriya-png/ai-web-summarizer>
 cd ai-web-summarizer
 ```
 
