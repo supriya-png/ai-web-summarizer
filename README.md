@@ -1,5 +1,3 @@
-# ai-web-summarizer
-
 # AI Web Content Summarizer
 
 ## Description
@@ -18,12 +16,13 @@ This project scrapes product pages from e-commerce websites, summarizes the cont
 - GitHub Actions
 
 
+
 ## Setup
 
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/ai-web-summarizer.git
+git clone <repository-url>
 cd ai-web-summarizer
 ```
 
@@ -56,7 +55,7 @@ Run the API:
 uvicorn src.api:app --reload
 ```
 
-Access API docs: http://127.0.0.1:8000/docs
+Access API docs locally.
 
 ## Testing
 
@@ -101,5 +100,4 @@ Response:
 
 ## Author
 
-Supriya S P  
-GitHub: https://github.com/supriya-png
+Supriya S P
